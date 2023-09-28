@@ -1,4 +1,5 @@
 const router = require('express').router();
+const fs = require("fs");
 
 // GET /api/notes should read the db.json file and return all saved notes as JSON.
 router.get('/api/notes', async (req, res) => {
