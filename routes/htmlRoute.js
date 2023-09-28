@@ -1,4 +1,5 @@
 const router = require('express').Router();
+const path = require('path');
 
 // GET * should return the index.html file.
 router.get('/', (req, res) => {

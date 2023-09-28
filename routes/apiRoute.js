@@ -1,6 +1,7 @@
 const router = require('express').Router();
 const fs = require("fs");
 const {v4: uuidv4} = require('uuid');
+// Give each note a unique id when it's saved
 
 // GET /api/notes should read the db.json file and return all saved notes as JSON.
 router.get('/api/notes', async (req, res) => {
