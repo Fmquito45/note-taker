@@ -17,9 +17,9 @@ I Built this project to help users take notes. This application allows users to 
 
 On deployed url, you'll be presented with a landing page with a button "Get Started" that links to the notes page. Click on the button to be presented with a page of existing notes listed on the left-hand column. On the right you'll see an empty field to input your new "Note title" and "Note Text". To save your new note you can click on the "Save" icon and the new note will be added to the left column. You can click through selected notes listed and they will open on the right side displaying it's Note title and Text. You can click on the Write Icon to be presented with a new empty field to enter a new Note title and Note Text.
 
-![alt text]
-![alt text]
-![alt text]
+![alt text](./assets/images/Screenshot%202023-09-29%20at%209.50.15%20AM.png)
+![alt text](./assets/images/Screenshot%202023-09-29%20at%209.50.32%20AM.png)
+![alt text](./assets/images/Screenshot%202023-09-29%20at%209.51.17%20AM.png)
 
 
 
